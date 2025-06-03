@@ -1,0 +1,131 @@
+
+
+<style>
+  body {
+    background-image: url('https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Garamond', serif;
+    color: #4b2e1f;
+  }
+
+  form {
+    background: rgba(249, 242, 231, 0.95);
+    border: 4px solid #d9983d;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    background-image: url('https://www.transparenttextures.com/patterns/parchment.png');
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  form:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 30px rgba(255, 140, 0, 0.6);
+  }
+</style>
+
+**Dragon's Legacy Resort & Waterpark**
+
+**Welcome to the Realm of Fire and Fantasy!**
+
+<audio autoplay loop>
+  <source src="https://example.com/fantasy-theme.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+**🎟️ Ticket Prices:**
+
+*General Admission:*
+- Adults (13+): $79.99
+- Children (3-12): $59.99
+- Seniors (65+): $49.99
+- Children under 3: Free
+
+*Multi-Day Passes:*
+- 2-Day Pass: $139.99
+- 3-Day Pass: $189.99
+
+*Seasonal Pass:*
+- Flameborn Annual Pass: $349.99 (includes early entry, exclusive meet-and-greets, and 10% off dining & merchandise)
+
+---
+
+**🍽️ Dining Options:**
+
+*Royal Banquet Hall:* Feast like a king with gourmet dragon-themed dishes and live performances.
+
+*The Ember Grille:* Flame-charred meats, sizzling stews, and a legendary Dragon's Breath chili.
+
+*Glimm & Fyrin’s Snack Nook:* A whimsical spot for dragon-sized desserts and magical milkshakes.
+
+*Ashspire Tavern:* Dark, moody vibes with hearty fare and smoky cocktails—Xarnok’s favorite!
+
+---
+
+**🎉 Birthday Reservations:**
+
+Celebrate your special day in the Magical Birthday Chamber, hosted by the Royal Family and their dragon companions!
+
+**Packages Include:**
+- Personal visit from costumed Royal Mascots (King Draganthor, Queen Virellyn, and more!)
+- Customized dragon-themed cake
+- Private party room with throne seating
+- Magical birthday coronation ceremony
+- Party favors and keepsake crowns
+- Photo session with animatronic armored dragons
+
+**Birthday Packages:**
+- Bronze Flame: $299 (up to 10 guests)
+- Silver Flame: $499 (up to 20 guests)
+- Golden Flame: $799 (up to 30 guests + personalized party banner and mini performance)
+
+Reserve your celebration today by calling 1-800-FLAME-99 or using the form below:
+
+---
+
+**📝 Birthday Booking Form**
+<form>
+  <label for="name">Parent/Guardian Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="child-name">Birthday Child's Name:</label><br>
+  <input type="text" id="child-name" name="child-name" required><br><br>
+
+  <label for="age">Child's Age on Birthday:</label><br>
+  <input type="number" id="age" name="age" min="1" required><br><br>
+
+  <label for="package">Select Package:</label><br>
+  <select id="package" name="package" required>
+    <option value="bronze">Bronze Flame ($299)</option>
+    <option value="silver">Silver Flame ($499)</option>
+    <option value="gold">Golden Flame ($799)</option>
+  </select><br><br>
+
+  <label for="date">Preferred Party Date:</label><br>
+  <input type="date" id="date" name="date" required><br><br>
+
+  <label for="email">Contact Email:</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="phone">Phone Number:</label><br>
+  <input type="tel" id="phone" name="phone" required><br><br>
+
+  <input type="submit" value="Book My Royal Party!">
+</form>
+
+---
+
+**More Coming Soon:**
+- Interactive park map
+- Online bookings & hotel stays
+- Event calendar
+- Royal Character bios
+- Ashspire Keep experience
+
+Join the legacy—where every guest becomes part of the legend! 🐉
